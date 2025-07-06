@@ -1,5 +1,5 @@
 # Hello
-# 👾 Simona Oliva | Offensive Security Enthusiast & Social Engineering Padawan 🕵️‍♀️💣
+# 👾 | Offensive Security Enthusiast & Social Engineering Padawan 🕵️‍♀️💣
 
 Salve! Classe 2000, attualmente in fase di evoluzione da **cyber-curiosa a red teamer a tutto tondo**.  
 Sono qui su GitHub per collezionare payload, progetti, lab, CTF e tutto ciò che può rendermi una vera maestra del lato oscuro… quello etico, ovviamente 😇
